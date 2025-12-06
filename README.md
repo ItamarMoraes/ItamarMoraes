@@ -43,7 +43,7 @@ _As I publish these projects, I’ll link each repository here._
 ## 📫 Contact
 
 - Email: ivoitamar@gmail.com
-- LinkedIn: [**https://www.linkedin.com/in/SEU-USUARIO/**](https://www.linkedin.com/in/itamar-moraes/)
+- LinkedIn: [**https://www.linkedin.com/in/itamar-moraes/**](https://www.linkedin.com/in/itamar-moraes/)
 
 Thanks for visiting my profile!  
 Feel free to explore my repositories and get in touch. 👇
